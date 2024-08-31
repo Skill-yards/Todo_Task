@@ -1,6 +1,6 @@
 # Todo_Task
 
-<img src="https://cdn.dribbble.com/users/7677055/screenshots/17687127/media/80e1770890ae3a90ed0ed53b16b3fb5d.png"  />
+<img src="https://raw.githubusercontent.com/Skill-yards/Todo_Task/main/image_processing20220309-10978-13rawbu.png"  />
 
 ### **Task: To-Do List Application with CRUD Operations and Animations**
 
